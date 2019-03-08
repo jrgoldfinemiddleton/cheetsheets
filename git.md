@@ -171,7 +171,7 @@ Rename current branch
 git branch -m <new-branch>
 ```
 
-### Merging and rebasing ###
+## Merging and rebasing ##
 
 Create new commit in current branch by merging tips of current branch and specified branch
 ```bash
